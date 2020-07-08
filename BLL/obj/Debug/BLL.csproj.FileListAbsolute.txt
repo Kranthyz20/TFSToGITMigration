@@ -1,0 +1,34 @@
+c:\users\temp.india.065\documents\visual studio 2013\Projects\Employee Leave\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+c:\users\temp.india.065\documents\visual studio 2013\Projects\Employee Leave\BLL\bin\Debug\BLL.dll
+c:\users\temp.india.065\documents\visual studio 2013\Projects\Employee Leave\BLL\bin\Debug\BLL.pdb
+c:\users\temp.india.065\documents\visual studio 2013\Projects\Employee Leave\BLL\bin\Debug\BO.dll
+c:\users\temp.india.065\documents\visual studio 2013\Projects\Employee Leave\BLL\bin\Debug\DAL.dll
+c:\users\temp.india.065\documents\visual studio 2013\Projects\Employee Leave\BLL\bin\Debug\Types.dll
+c:\users\temp.india.065\documents\visual studio 2013\Projects\Employee Leave\BLL\bin\Debug\BO.pdb
+c:\users\temp.india.065\documents\visual studio 2013\Projects\Employee Leave\BLL\bin\Debug\DAL.pdb
+c:\users\temp.india.065\documents\visual studio 2013\Projects\Employee Leave\BLL\bin\Debug\Types.pdb
+c:\users\temp.india.065\documents\visual studio 2013\Projects\Employee Leave\BLL\obj\Debug\BLL.dll
+c:\users\temp.india.065\documents\visual studio 2013\Projects\Employee Leave\BLL\obj\Debug\BLL.pdb
+D:\C# Work\Employee Leave\BLL\bin\Debug\BLL.dll
+D:\C# Work\Employee Leave\BLL\bin\Debug\BLL.pdb
+D:\C# Work\Employee Leave\BLL\bin\Debug\BO.dll
+D:\C# Work\Employee Leave\BLL\bin\Debug\DAL.dll
+D:\C# Work\Employee Leave\BLL\bin\Debug\Types.dll
+D:\C# Work\Employee Leave\BLL\bin\Debug\BO.pdb
+D:\C# Work\Employee Leave\BLL\bin\Debug\DAL.pdb
+D:\C# Work\Employee Leave\BLL\bin\Debug\Types.pdb
+D:\C# Work\Employee Leave\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\C# Work\Employee Leave\BLL\obj\Debug\BLL.dll
+D:\C# Work\Employee Leave\BLL\obj\Debug\BLL.pdb
+D:\Works\C# Work\Employee Leave\BLL\bin\Debug\BLL.dll
+D:\Works\C# Work\Employee Leave\BLL\bin\Debug\BLL.pdb
+D:\Works\C# Work\Employee Leave\BLL\bin\Debug\BO.dll
+D:\Works\C# Work\Employee Leave\BLL\bin\Debug\DAL.dll
+D:\Works\C# Work\Employee Leave\BLL\bin\Debug\Types.dll
+D:\Works\C# Work\Employee Leave\BLL\bin\Debug\BO.pdb
+D:\Works\C# Work\Employee Leave\BLL\bin\Debug\DAL.pdb
+D:\Works\C# Work\Employee Leave\BLL\bin\Debug\Types.pdb
+D:\Works\C# Work\Employee Leave\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Works\C# Work\Employee Leave\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Works\C# Work\Employee Leave\BLL\obj\Debug\BLL.dll
+D:\Works\C# Work\Employee Leave\BLL\obj\Debug\BLL.pdb

@@ -1,0 +1,22 @@
+c:\users\temp.india.065\documents\visual studio 2013\Projects\Employee Leave\BO\bin\Debug\BO.dll
+c:\users\temp.india.065\documents\visual studio 2013\Projects\Employee Leave\BO\bin\Debug\BO.pdb
+c:\users\temp.india.065\documents\visual studio 2013\Projects\Employee Leave\BO\bin\Debug\Types.dll
+c:\users\temp.india.065\documents\visual studio 2013\Projects\Employee Leave\BO\bin\Debug\Types.pdb
+c:\users\temp.india.065\documents\visual studio 2013\Projects\Employee Leave\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+c:\users\temp.india.065\documents\visual studio 2013\Projects\Employee Leave\BO\obj\Debug\BO.dll
+c:\users\temp.india.065\documents\visual studio 2013\Projects\Employee Leave\BO\obj\Debug\BO.pdb
+D:\C# Work\Employee Leave\BO\bin\Debug\BO.dll
+D:\C# Work\Employee Leave\BO\bin\Debug\BO.pdb
+D:\C# Work\Employee Leave\BO\bin\Debug\Types.dll
+D:\C# Work\Employee Leave\BO\bin\Debug\Types.pdb
+D:\C# Work\Employee Leave\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+D:\C# Work\Employee Leave\BO\obj\Debug\BO.dll
+D:\C# Work\Employee Leave\BO\obj\Debug\BO.pdb
+D:\Works\C# Work\Employee Leave\BO\bin\Debug\BO.dll
+D:\Works\C# Work\Employee Leave\BO\bin\Debug\BO.pdb
+D:\Works\C# Work\Employee Leave\BO\bin\Debug\Types.dll
+D:\Works\C# Work\Employee Leave\BO\bin\Debug\Types.pdb
+D:\Works\C# Work\Employee Leave\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+D:\Works\C# Work\Employee Leave\BO\obj\Debug\BO.csproj.CoreCompileInputs.cache
+D:\Works\C# Work\Employee Leave\BO\obj\Debug\BO.dll
+D:\Works\C# Work\Employee Leave\BO\obj\Debug\BO.pdb

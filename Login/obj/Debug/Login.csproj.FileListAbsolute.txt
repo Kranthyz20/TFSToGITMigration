@@ -1,0 +1,43 @@
+c:\users\temp.india.065\documents\visual studio 2013\Projects\Employee Leave\Login\bin\Login.dll.config
+c:\users\temp.india.065\documents\visual studio 2013\Projects\Employee Leave\Login\bin\Login.dll
+c:\users\temp.india.065\documents\visual studio 2013\Projects\Employee Leave\Login\bin\Login.pdb
+c:\users\temp.india.065\documents\visual studio 2013\Projects\Employee Leave\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+c:\users\temp.india.065\documents\visual studio 2013\Projects\Employee Leave\Login\obj\Debug\Login.dll
+c:\users\temp.india.065\documents\visual studio 2013\Projects\Employee Leave\Login\obj\Debug\Login.pdb
+c:\users\temp.india.065\documents\visual studio 2013\Projects\Employee Leave\Login\bin\BLL.dll
+c:\users\temp.india.065\documents\visual studio 2013\Projects\Employee Leave\Login\bin\BO.dll
+c:\users\temp.india.065\documents\visual studio 2013\Projects\Employee Leave\Login\bin\DAL.dll
+c:\users\temp.india.065\documents\visual studio 2013\Projects\Employee Leave\Login\bin\Types.dll
+c:\users\temp.india.065\documents\visual studio 2013\Projects\Employee Leave\Login\bin\BLL.pdb
+c:\users\temp.india.065\documents\visual studio 2013\Projects\Employee Leave\Login\bin\BO.pdb
+c:\users\temp.india.065\documents\visual studio 2013\Projects\Employee Leave\Login\bin\DAL.pdb
+c:\users\temp.india.065\documents\visual studio 2013\Projects\Employee Leave\Login\bin\Types.pdb
+D:\C# Work\Employee Leave\Login\bin\Login.dll.config
+D:\C# Work\Employee Leave\Login\bin\Login.dll
+D:\C# Work\Employee Leave\Login\bin\Login.pdb
+D:\C# Work\Employee Leave\Login\bin\BLL.dll
+D:\C# Work\Employee Leave\Login\bin\BO.dll
+D:\C# Work\Employee Leave\Login\bin\DAL.dll
+D:\C# Work\Employee Leave\Login\bin\Types.dll
+D:\C# Work\Employee Leave\Login\bin\BLL.pdb
+D:\C# Work\Employee Leave\Login\bin\BO.pdb
+D:\C# Work\Employee Leave\Login\bin\DAL.pdb
+D:\C# Work\Employee Leave\Login\bin\Types.pdb
+D:\C# Work\Employee Leave\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+D:\C# Work\Employee Leave\Login\obj\Debug\Login.dll
+D:\C# Work\Employee Leave\Login\obj\Debug\Login.pdb
+D:\Works\C# Work\Employee Leave\Login\bin\Login.dll.config
+D:\Works\C# Work\Employee Leave\Login\bin\Login.dll
+D:\Works\C# Work\Employee Leave\Login\bin\Login.pdb
+D:\Works\C# Work\Employee Leave\Login\bin\BLL.dll
+D:\Works\C# Work\Employee Leave\Login\bin\BO.dll
+D:\Works\C# Work\Employee Leave\Login\bin\DAL.dll
+D:\Works\C# Work\Employee Leave\Login\bin\Types.dll
+D:\Works\C# Work\Employee Leave\Login\bin\BLL.pdb
+D:\Works\C# Work\Employee Leave\Login\bin\BO.pdb
+D:\Works\C# Work\Employee Leave\Login\bin\DAL.pdb
+D:\Works\C# Work\Employee Leave\Login\bin\Types.pdb
+D:\Works\C# Work\Employee Leave\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+D:\Works\C# Work\Employee Leave\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\Works\C# Work\Employee Leave\Login\obj\Debug\Login.dll
+D:\Works\C# Work\Employee Leave\Login\obj\Debug\Login.pdb

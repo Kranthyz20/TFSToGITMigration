@@ -1,0 +1,22 @@
+c:\users\temp.india.065\documents\visual studio 2013\Projects\Employee Leave\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\users\temp.india.065\documents\visual studio 2013\Projects\Employee Leave\DAL\bin\Debug\DAL.dll
+c:\users\temp.india.065\documents\visual studio 2013\Projects\Employee Leave\DAL\bin\Debug\DAL.pdb
+c:\users\temp.india.065\documents\visual studio 2013\Projects\Employee Leave\DAL\bin\Debug\Types.dll
+c:\users\temp.india.065\documents\visual studio 2013\Projects\Employee Leave\DAL\bin\Debug\Types.pdb
+c:\users\temp.india.065\documents\visual studio 2013\Projects\Employee Leave\DAL\obj\Debug\DAL.dll
+c:\users\temp.india.065\documents\visual studio 2013\Projects\Employee Leave\DAL\obj\Debug\DAL.pdb
+D:\C# Work\Employee Leave\DAL\bin\Debug\DAL.dll
+D:\C# Work\Employee Leave\DAL\bin\Debug\DAL.pdb
+D:\C# Work\Employee Leave\DAL\bin\Debug\Types.dll
+D:\C# Work\Employee Leave\DAL\bin\Debug\Types.pdb
+D:\C# Work\Employee Leave\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\C# Work\Employee Leave\DAL\obj\Debug\DAL.dll
+D:\C# Work\Employee Leave\DAL\obj\Debug\DAL.pdb
+D:\Works\C# Work\Employee Leave\DAL\bin\Debug\DAL.dll
+D:\Works\C# Work\Employee Leave\DAL\bin\Debug\DAL.pdb
+D:\Works\C# Work\Employee Leave\DAL\bin\Debug\Types.dll
+D:\Works\C# Work\Employee Leave\DAL\bin\Debug\Types.pdb
+D:\Works\C# Work\Employee Leave\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Works\C# Work\Employee Leave\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Works\C# Work\Employee Leave\DAL\obj\Debug\DAL.dll
+D:\Works\C# Work\Employee Leave\DAL\obj\Debug\DAL.pdb
